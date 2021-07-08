@@ -1,0 +1,6 @@
+emnum = int(input())
+amount = int(input())
+hourrate = float(input())
+salary = float(amount * hourrate)
+print(f'NUMBER = {emnum}')
+print(f'SALARY = U$ {salary:.2f}') 

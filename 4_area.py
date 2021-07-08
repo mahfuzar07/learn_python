@@ -11,5 +11,5 @@ base = float(input("Enter Base : "))
 height = float(input("Enter Vertical Height : "))
 
 area = 0.5 * base * height
-print("Traiangle Area: ",area )
+print("Traiangle Area: %.4f"%area )
 

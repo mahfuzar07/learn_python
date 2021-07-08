@@ -1,0 +1,7 @@
+name = (input())
+fsalary = float(input())
+psold = float(input())
+bonus = float(psold * (15 / 100))
+salary = float(fsalary + bonus)
+print(f'NAME = {name}')
+print(f'TOTAL = R$ {salary:.2f}')

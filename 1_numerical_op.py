@@ -7,4 +7,4 @@ print(a/b)
 print(a%b)
 print("--------------------------------------------")
 print(a//b)
-print(4**2) #squar
+print(4**2) 
